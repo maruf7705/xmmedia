@@ -584,6 +584,9 @@ button:focus {
 .bg_black3 {
 	background-color: #252740;
 }
+.bg_black10 {
+	background-color: #232D3F;
+}
 
 .bg_black4 {
 	background-color: #121833;
@@ -5918,7 +5921,12 @@ iframe {
 
 .mrcolor{
 	color: #7752FE;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 2px;
 }
 .text{
 	color: #FFF6F6;
+	font-size: 20px;
 }
+
